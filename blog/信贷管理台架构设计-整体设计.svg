@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 872 389" xmlns:xlink="http://www.w3.org/1999/xlink" width="872" height="389">
+    <style type="text/css"><![CDATA[
+.st4 {fill:#fff2e7;font-family:宋体;font-size:10pt}
+.st3 {fill:#ffffff;font-family:华文彩云;font-size:20pt;font-weight:bold}
+.st1 {fill:#ffffff;font-family:华文琥珀;font-size:20pt;font-weight:bold}
+.st2 {fill:#ffffff;font-family:宋体;font-size:10pt}
+]]></style>
+    <defs/>
+    <g transform="translate(-93,-130.5)">
+        <g id="shape1" transform="translate(94,131.5)">
+            <path d="M366.8,386.5C377.7,386.5,386.5,377.7,386.5,366.8L386.5,19.7C386.5,8.8,377.7,0,366.8,0L19.7,0C8.8,0,0,8.8,0,19.7L0,366.8C0,377.7,8.8,386.5,19.7,386.5L366.8,386.5z" stroke="#50bec1" fill="#50bec1"/>
+            <text class="st1">
+                <tspan x="165.3" y="37.2">基座</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(118,278.5)">
+            <path d="M0,35.5C0,15.9,15.9,0,35.5,0C55.1,0,71,15.9,71,35.5C71,55.1,55.1,71,35.5,71C15.9,71,0,55.1,0,35.5z" stroke="#83b3e3" fill="#83b3e3"/>
+            <text class="st2">
+                <tspan x="10" y="40">营运中心</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(246,278.5)">
+            <path d="M0,35.5C0,15.9,15.9,0,35.5,0C55.1,0,71,15.9,71,35.5C71,55.1,55.1,71,35.5,71C15.9,71,0,55.1,0,35.5z" stroke="#ffaf00" fill="#ffaf00"/>
+            <text class="st2">
+                <tspan x="10" y="40">消费金融</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(374,278.5)">
+            <path d="M0,35.5C0,15.9,15.9,0,35.5,0C55.1,0,71,15.9,71,35.5C71,55.1,55.1,71,35.5,71C15.9,71,0,55.1,0,35.5z" stroke="#527294" fill="#527294"/>
+            <text class="st2">
+                <tspan x="6" y="40">...子应用</tspan>
+            </text>
+        </g>
+        <path d="M27.7,0L27.7,37.2L44,30.9L22,64L0,30.9L16.3,37.2L16.3,0L27.7,0z" stroke="#f2a282" fill="#ffffff" id="shape5" transform="translate(259.5,198)"/>
+        <g id="shape6" transform="translate(577.5,131.5)">
+            <path d="M366.8,386.5C377.7,386.5,386.5,377.7,386.5,366.8L386.5,19.7C386.5,8.8,377.7,0,366.8,0L19.7,0C8.8,0,0,8.8,0,19.7L0,366.8C0,377.7,8.8,386.5,19.7,386.5L366.8,386.5z" stroke="#717070" fill="#717070"/>
+            <text class="st3">
+                <tspan x="165.3" y="37.2">服务</tspan>
+            </text>
+        </g>
+        <g id="shape7" transform="translate(293.75,194)">
+            <text class="st4">
+                <tspan x="15" y="25.5">初始化</tspan>
+                <tspan x="21" y="40.5">挂载</tspan>
+                <tspan x="21" y="55.5">卸载</tspan>
+            </text>
+        </g>
+        <g id="shape8" transform="translate(735.25,185)">
+            <path d="M0,35.5C0,15.9,15.9,0,35.5,0C55.1,0,71,15.9,71,35.5C71,55.1,55.1,71,35.5,71C15.9,71,0,55.1,0,35.5z" stroke="#eb6d71" fill="#eb6d71"/>
+            <text class="st2">
+                <tspan x="18" y="40">Admin</tspan>
+            </text>
+        </g>
+        <g id="shape9" transform="translate(610.5,288.5)">
+            <path d="M0,35.5C0,15.9,15.9,0,35.5,0C55.1,0,71,15.9,71,35.5C71,55.1,55.1,71,35.5,71C15.9,71,0,55.1,0,35.5z" stroke="#83b3e3" fill="#83b3e3"/>
+            <text class="st2">
+                <tspan x="10" y="40">营运中心</tspan>
+            </text>
+        </g>
+        <g id="shape10" transform="translate(735.25,288.5)">
+            <path d="M0,35.5C0,15.9,15.9,0,35.5,0C55.1,0,71,15.9,71,35.5C71,55.1,55.1,71,35.5,71C15.9,71,0,55.1,0,35.5z" stroke="#ffaf00" fill="#ffaf00"/>
+            <text class="st2">
+                <tspan x="10" y="40">消费金融</tspan>
+            </text>
+        </g>
+        <g id="shape11" transform="translate(860,288.5)">
+            <path d="M0,35.5C0,15.9,15.9,0,35.5,0C55.1,0,71,15.9,71,35.5C71,55.1,55.1,71,35.5,71C15.9,71,0,55.1,0,35.5z" stroke="#527294" fill="#527294"/>
+            <text class="st2">
+                <tspan x="12" y="40">...服务</tspan>
+            </text>
+        </g>
+        <g id="shape12" transform="matrix(0.97,-0.25,0.25,0.97,646,288.5)">
+            <path d="M0,0L124.5,0" stroke="#ffffff" fill="none"/>
+            <path stroke-width="1" d="M128.9,0L123.7,-3C124.2,-2.1,124.5,-1.1,124.5,0C124.5,1.1,124.2,2.1,123.7,3L128.9,0" stroke="#ffffff" fill="#ffffff" stroke-linecap="round"/>
+        </g>
+        <g id="shape13" transform="matrix(0,-1,1,0,770.8,288.5)">
+            <path d="M0,0L28.1,0" stroke="#ffffff" fill="none"/>
+            <path stroke-width="1" d="M32.5,0L27.3,-3C27.8,-2.1,28.1,-1.1,28.1,0C28.1,1.1,27.8,2.1,27.3,3L32.5,0" stroke="#ffffff" fill="#ffffff" stroke-linecap="round"/>
+        </g>
+        <g id="shape14" transform="matrix(-0.97,-0.25,0.25,-0.97,895.5,288.5)">
+            <path d="M0,0L124.5,0" stroke="#ffffff" fill="none"/>
+            <path stroke-width="1" d="M128.9,0L123.7,-3C124.2,-2.1,124.5,-1.1,124.5,0C124.5,1.1,124.2,2.1,123.7,3L128.9,0" stroke="#ffffff" fill="#ffffff" stroke-linecap="round"/>
+        </g>
+        <path d="M0,18L1.7,15.1L74.7,15.1L63.9,4.4L65.2,1.1L68.7,.1L83.8,15.1L83.6,21L68.7,35.9L65.2,34.8L63.9,31.6L74.7,20.8L1.7,20.8L0,18z" stroke="#ffaf00" fill="#ffaf00" id="shape15" transform="translate(486.5,231)"/>
+        <path d="M0,18L1.7,15.1L74.7,15.1L63.9,4.4L65.2,1.1L68.7,.1L83.8,15.1L83.6,21L68.7,35.9L65.2,34.8L63.9,31.6L74.7,20.8L1.7,20.8L0,18z" stroke="#ffaf00" fill="#ffaf00" id="shape16" transform="matrix(-1,-0,0,-1,570.3,342.8)"/>
+        <g id="shape17" transform="translate(610.5,438)">
+            <path d="M44.3,30C50.9,30,56.3,24.6,56.3,18L56.3,12C56.3,5.4,50.9,0,44.3,0L12,0C5.4,0,0,5.4,0,12L0,18C0,24.6,5.4,30,12,30L44.3,30z" stroke="#00ae9d" fill="#00ae9d"/>
+            <text class="st2">
+                <tspan x="14.1" y="19.5">User</tspan>
+            </text>
+        </g>
+        <g id="shape18" transform="translate(688.75,438)">
+            <path d="M44.3,30C50.9,30,56.3,24.6,56.3,18L56.3,12C56.3,5.4,50.9,0,44.3,0L12,0C5.4,0,0,5.4,0,12L0,18C0,24.6,5.4,30,12,30L44.3,30z" stroke="#00ae9d" fill="#00ae9d"/>
+            <text class="st2">
+                <tspan x="11.1" y="19.5">Mdata</tspan>
+            </text>
+        </g>
+        <g id="shape19" transform="translate(767,438)">
+            <path d="M83,30C89.6,30,95,24.6,95,18L95,12C95,5.4,89.6,0,83,0L12,0C5.4,0,0,5.4,0,12L0,18C0,24.6,5.4,30,12,30L83,30z" stroke="#00ae9d" fill="#00ae9d"/>
+            <text class="st2">
+                <tspan x="11" y="19.5">...公共组件</tspan>
+            </text>
+        </g>
+        <path d="M58,32.4L34.8,32.4L34.8,43.3L0,21.6L34.8,0L34.8,10.8L58,10.8L58,32.4z" stroke="#19cbb1" fill="#19cbb1" id="shape20" transform="matrix(0,1,-1,0,792.4,367.9)"/>
+    </g>
+</svg>
