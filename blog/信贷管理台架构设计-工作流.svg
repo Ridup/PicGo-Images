@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 436 775" xmlns:xlink="http://www.w3.org/1999/xlink" width="436" height="775">
+    <style type="text/css"><![CDATA[
+.st3 {fill:#000000;font-family:宋体;font-size:8pt}
+.st2 {fill:#1f6391;font-family:宋体;font-size:10pt}
+.st1 {fill:#ffffff;font-family:宋体;font-size:10pt}
+]]></style>
+    <defs/>
+    <g transform="translate(-401.45,-31.09)">
+        <g id="shape1" transform="translate(522.7,32.09)">
+            <path d="M0,26.3C0,11.8,11.8,0,26.3,0C40.8,0,52.6,11.8,52.6,26.3C52.6,40.8,40.8,52.6,26.3,52.6C11.8,52.6,0,40.8,0,26.3z" stroke="#3498db" fill="#3498db"/>
+            <text class="st1">
+                <tspan x="13.3" y="30.8">开始</tspan>
+            </text>
+        </g>
+        <path d="M0,0L88.3,0L0,0zM0,22.5L88.3,22.5M14.7,11.3M73.6,11.3M44.2,11.3M44.2,11.3M44.2,11.3M44.2,11.3" stroke="#3498db" fill="none" id="shape2" transform="translate(504.85,111.94)"/>
+        <g id="shape3" transform="translate(549,84.7)">
+            <path d="M0,0L0,22.9" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M0,27.2L3,22C2.1,22.6,1.1,22.9,0,22.9C-1.1,22.9,-2.1,22.6,-3,22L0,27.2" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g transform="translate(402.45,183.34)">
+            <path d="M88.3,52.6L88.3,0L0,0L0,52.6L88.3,52.6z" stroke="#3498db" fill="#3498db" id="shape4"/>
+            <text class="st1">
+                <tspan x="12.2" y="23.3">构建基座应</tspan>
+                <tspan x="38.2" y="38.3">用</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(504.85,123.22)">
+            <path d="M0,0L-58.2,0L-58.2,55.7" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M-58.2,60.1L-55.2,54.9C-56.1,55.4,-57.2,55.7,-58.2,55.7C-59.3,55.7,-60.4,55.4,-61.2,54.9L-58.2,60.1" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g transform="translate(618.52,183.34)">
+            <path d="M88.3,52.6L88.3,0L0,0L0,52.6L88.3,52.6z" stroke="#3498db" fill="#3498db" id="shape6"/>
+            <text class="st1">
+                <tspan x="12.2" y="23.3">梳理业务组</tspan>
+                <tspan x="38.2" y="38.3">件</tspan>
+            </text>
+        </g>
+        <g transform="translate(618.52,275.62)">
+            <path d="M88.3,54.5L88.3,0L0,0L0,54.5L88.3,54.5z" stroke="#3498db" fill="#3498db" id="shape7"/>
+            <text class="st1">
+                <tspan x="12.2" y="24.2">构建业务组</tspan>
+                <tspan x="31.2" y="39.2">件库</tspan>
+            </text>
+        </g>
+        <g transform="translate(618.52,447.32)">
+            <path d="M88.3,54.5L88.3,0L0,0L0,54.5L88.3,54.5z" stroke="#3498db" fill="#3498db" id="shape8"/>
+            <text class="st1">
+                <tspan x="12.2" y="24.2">构建脚手架</tspan>
+                <tspan x="31.2" y="39.2">工程</tspan>
+            </text>
+        </g>
+        <g transform="translate(618.52,363.17)">
+            <path d="M88.3,54.5L88.3,0L0,0L0,54.5L88.3,54.5z" stroke="#3498db" fill="#3498db" id="shape9"/>
+            <text class="st1">
+                <tspan x="12.2" y="24.2">构建子应用</tspan>
+                <tspan x="17.2" y="39.2">试用Demo</tspan>
+            </text>
+        </g>
+        <g id="shape10" transform="translate(618.52,390.41)">
+            <path d="M0,0C-95.8,0,-95.8,-45.2,-95.8,-90.4C-95.8,-133.5,-95.8,-176.6,-123.5,-180.5" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M-127.8,-180.8L-122.8,-177.4C-123.2,-178.3,-123.5,-179.4,-123.4,-180.5C-123.3,-181.6,-122.9,-182.6,-122.4,-183.4L-127.8,-180.8" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+            <rect x="-122.7" y="-119.3" fill="#ffffff" width="55.2" height="15"/>
+            <text class="st2">
+                <tspan x="-122.8" y="-107.3">Demo调试</tspan>
+            </text>
+        </g>
+        <g transform="translate(489.35,609)">
+            <path d="M88.3,54.5L88.3,0L0,0L0,54.5L88.3,54.5z" stroke="#3498db" fill="#3498db" id="shape11"/>
+            <text class="st1">
+                <tspan x="12.2" y="24.2">构建管理后</tspan>
+                <tspan x="18.2" y="39.2">台子应用</tspan>
+            </text>
+        </g>
+        <g transform="translate(618.52,609)">
+            <path d="M88.3,54.5L88.3,0L0,0L0,54.5L88.3,54.5z" stroke="#3498db" fill="#3498db" id="shape12"/>
+            <text class="st1">
+                <tspan x="12.2" y="24.2">构建营运中</tspan>
+                <tspan x="18.2" y="39.2">心子应用</tspan>
+            </text>
+        </g>
+        <g transform="translate(747.69,609)">
+            <path d="M88.3,54.5L88.3,0L0,0L0,54.5L88.3,54.5z" stroke="#3498db" fill="#3498db" id="shape13"/>
+            <text class="st1">
+                <tspan x="14.2" y="24.2">...构建子</tspan>
+                <tspan x="31.2" y="39.2">应用</tspan>
+            </text>
+        </g>
+        <g transform="translate(517.11,752)">
+            <path d="M22.1,52.6L66.2,52.6C78.4,52.6,88.3,42.7,88.3,26.3C88.3,9.9,78.4,0,66.2,0L22.1,0C9.9,0,0,9.9,0,26.3C0,42.7,9.9,52.6,22.1,52.6z" stroke="#3498db" fill="#3498db" id="shape14"/>
+            <text class="st1">
+                <tspan x="31.2" y="30.8">结束</tspan>
+            </text>
+        </g>
+        <g id="shape15" transform="translate(595.36,126)">
+            <path d="M0,0L67.3,0L67.3,52.9" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M67.3,57.3L70.3,52.1C69.4,52.7,68.4,52.9,67.3,52.9C66.2,52.9,65.2,52.7,64.3,52.1L67.3,57.3" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g id="shape16" transform="translate(662.67,235.95)">
+            <path d="M0,0L0,35.3" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M0,39.7L3,34.5C2.1,35,1.1,35.3,0,35.3C-1.1,35.3,-2.1,35,-3,34.5L0,39.7" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g id="shape17" transform="translate(662.67,330.11)">
+            <path d="M0,0L0,28.7" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M0,33.1L3,27.9C2.1,28.4,1.1,28.7,0,28.7C-1.1,28.7,-2.1,28.4,-3,27.9L0,33.1" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g id="shape18" transform="translate(662.67,417.65)">
+            <path d="M0,0L0,25.3" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M0,29.7L3,24.5C2.1,25,1.1,25.3,0,25.3C-1.1,25.3,-2.1,25,-3,24.5L0,29.7" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g id="shape19" transform="translate(615.67,531.48)">
+            <path d="M0,0L94,0L0,0zM0,24L94,24M15.7,12M78.3,12M47,12M47,12M47,12M47,12" stroke="#83b3e3" fill="none"/>
+            <text class="st3">
+                <tspan x="9" y="9">使用脚手架创建</tspan>
+                <tspan x="31" y="22">子应用</tspan>
+            </text>
+        </g>
+        <g id="shape20" transform="translate(662.67,501.81)">
+            <path d="M0,0L0,25.3" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M0,29.7L3,24.5C2.1,25,1.1,25.3,0,25.3C-1.1,25.3,-2.1,25,-3,24.5L0,29.7" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g id="shape21" transform="translate(615.67,543.48)">
+            <path d="M0,0L-82.2,0L-82.2,61.1" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M-82.2,65.5L-79.2,60.3C-80.1,60.8,-81.1,61.1,-82.2,61.1C-83.3,61.1,-84.3,60.8,-85.2,60.3L-82.2,65.5" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g id="shape22" transform="translate(662.67,555.48)">
+            <path d="M0,0L0,49.1" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M0,53.5L3,48.3C2.1,48.8,1.1,49.1,0,49.1C-1.1,49.1,-2.1,48.8,-3,48.3L0,53.5" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g id="shape23" transform="translate(709.67,543.48)">
+            <path d="M0,0L82.2,0L82.2,61.1" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M82.2,65.5L85.2,60.3C84.3,60.8,83.3,61.1,82.2,61.1C81.1,61.1,80.1,60.8,79.2,60.3L82.2,65.5" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g id="shape24" transform="translate(662.67,663.49)">
+            <path d="M0,0L0,56.5L-101.4,56.5L-101.4,84.1" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M-101.4,88.5L-98.4,83.3C-99.3,83.8,-100.3,84.1,-101.4,84.1C-102.5,84.1,-103.5,83.8,-104.4,83.3L-101.4,88.5" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g id="shape25" transform="translate(791.85,663.49)">
+            <path d="M0,0L0,56.5L-230.6,56.5L-230.6,84.1" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M-230.6,88.5L-227.6,83.3C-228.5,83.8,-229.5,84.1,-230.6,84.1C-231.7,84.1,-232.7,83.8,-233.6,83.3L-230.6,88.5" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g id="shape26" transform="translate(533.5,663.49)">
+            <path d="M0,0L0,56.5L27.8,56.5L27.8,84.1" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M27.8,88.5L30.8,83.3C29.9,83.8,28.9,84.1,27.8,84.1C26.7,84.1,25.6,83.8,24.8,83.3L27.8,88.5" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g id="shape27" transform="translate(446.6,235.95)">
+            <path d="M0,0L0,484.1L114.7,484.1L114.7,511.7" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M114.7,516.1L117.7,510.9C116.8,511.4,115.7,511.7,114.7,511.7C113.6,511.7,112.5,511.4,111.7,510.9L114.7,516.1" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+            <rect x="88.8" y="488.6" fill="#ffffff" width="53.1" height="15"/>
+            <text class="st2">
+                <tspan x="88.7" y="500.6">合并联调</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
