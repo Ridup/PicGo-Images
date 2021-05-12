@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="257" width="928" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 928 257">
+    <defs/>
+    <g transform="translate(-414.75,-169.08)">
+        <g id="shape1" transform="translate(760.94,272.36)">
+            <path fill="#b3d04b" fill-rule="nonzero" stroke="#323232" d="M100.0,60.0L100.0,.0L.0,.0L.0,60.0L100.0,60.0z"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="22.5" y="35.5">Thread A</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(415.75,272.36)">
+            <path fill="#b3d04b" fill-rule="nonzero" stroke="#323232" d="M100.0,60.0L100.0,.0L.0,.0L.0,60.0L100.0,60.0z"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="22.5" y="35.5">Thread A</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(593.07,272.36)">
+            <path fill="#ffffff" fill-rule="nonzero" stroke="#323232" d="M.0,30.0C.0,13.4,13.4,.0,30.0,.0C46.6,.0,60.0,13.4,60.0,30.0C60.0,46.6,46.6,60.0,30.0,60.0C13.4,60.0,.0,46.6,.0,30.0z"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="4.0" y="35.5">同步资源</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(515.75,302.36)">
+            <path fill="none" stroke="#191919" d="M.0,.0L71.3,.0"/>
+            <path stroke-width="1" fill="#191919" stroke-linecap="round" stroke="#191919" d="M71.3,-3.0L77.3,.0L71.3,3.0L71.3,-3.0"/>
+        </g>
+        <g id="group5" transform="translate(677.01,272.36)">
+            <path id="shape6" stroke-width="3" fill="none" stroke="#00aeee" d="M.0,30.0C.0,13.4,13.4,.0,30.0,.0C46.5,.0,60.0,13.4,60.0,30.0C60.0,46.6,46.5,60.0,30.0,60.0C13.4,60.0,.0,46.6,.0,30.0z"/>
+            <path id="shape7" fill="#00aeee" stroke-width="3" transform="translate(13.33,13.34)" fill-rule="nonzero" stroke="#00aeee" d="M.0,19.3L22.3,19.3L12.3,29.3L16.7,33.3L33.3,16.7L16.7,.0L12.3,4.0L22.3,14.0L.0,14.0L.0,19.3z"/>
+        </g>
+        <g id="shape8" transform="translate(996.34,272.36)">
+            <path fill="#ffffff" fill-rule="nonzero" stroke="#323232" d="M.0,30.0C.0,13.4,13.4,.0,30.0,.0C46.6,.0,60.0,13.4,60.0,30.0C60.0,46.6,46.6,60.0,30.0,60.0C13.4,60.0,.0,46.6,.0,30.0z"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="4.0" y="35.5">同步资源</tspan>
+            </text>
+        </g>
+        <g id="shape9" transform="translate(860.94,302.36)">
+            <path fill="none" stroke="#191919" d="M.0,.0L129.4,.0"/>
+            <path stroke-width="1" fill="#191919" stroke-linecap="round" stroke="#191919" d="M129.4,-3.0L135.4,.0L129.4,3.0L129.4,-3.0"/>
+        </g>
+        <g id="shape10" transform="translate(1102.76,213.31)">
+            <path fill="#b3d04b" fill-rule="nonzero" stroke="#323232" d="M100.0,60.0L100.0,.0L.0,.0L.0,60.0L100.0,60.0z"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="22.5" y="35.5">Thread A</tspan>
+            </text>
+        </g>
+        <g id="shape11" transform="translate(1102.76,321.26)">
+            <path fill="#b3d04b" fill-rule="nonzero" stroke="#323232" d="M100.0,60.0L100.0,.0L.0,.0L.0,60.0L100.0,60.0z"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="22.5" y="35.5">Thread A</tspan>
+            </text>
+        </g>
+        <g id="shape12" transform="translate(1281.73,213.31)">
+            <path fill="#ffffff" fill-rule="nonzero" stroke="#323232" d="M.0,30.0C.0,13.4,13.4,.0,30.0,.0C46.6,.0,60.0,13.4,60.0,30.0C60.0,46.6,46.6,60.0,30.0,60.0C13.4,60.0,.0,46.6,.0,30.0z"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="4.0" y="35.5">同步资源</tspan>
+            </text>
+        </g>
+        <g id="shape13" transform="translate(1202.76,243.31)">
+            <path fill="none" stroke="#191919" d="M.0,.0L73.0,.0"/>
+            <path stroke-width="1" fill="#191919" stroke-linecap="round" stroke="#191919" d="M73.0,-3.0L79.0,.0L73.0,3.0L73.0,-3.0"/>
+        </g>
+        <g id="shape14" transform="translate(1171.65,170.08)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="13.5" y="32.5">更新内存中同步资源的值</tspan>
+            </text>
+        </g>
+        <g id="shape15" transform="translate(864.06,290.16)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="8.0" y="36.0">判断内存中同步资</tspan>
+                <tspan x="21.0" y="55.0">源是否被更新</tspan>
+            </text>
+        </g>
+        <g id="shape16" transform="translate(1056.34,302.36)">
+            <path fill="none" stroke="#191919" d="M.0,.0L14.4,.0L14.4,48.9L40.4,48.9"/>
+            <path stroke-width="1" fill="#191919" stroke-linecap="round" stroke="#191919" d="M40.4,45.9L46.4,48.9L40.4,51.9L40.4,45.9"/>
+        </g>
+        <g id="shape17" transform="translate(1056.34,302.36)">
+            <path fill="none" stroke="#191919" d="M.0,.0L14.4,.0L14.4,-59.1L40.4,-59.1"/>
+            <path stroke-width="1" fill="#191919" stroke-linecap="round" stroke="#191919" d="M40.4,-62.1L46.4,-59.1L40.4,-56.1L40.4,-62.1"/>
+        </g>
+        <g id="shape18" transform="translate(1020.47,214.13)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="16.5" y="20.0">没有更新</tspan>
+            </text>
+        </g>
+        <g id="shape19" transform="translate(1031.30,351.99)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="5.7" y="23.1">资源被其</tspan>
+                <tspan x="5.7" y="42.1">他线程更</tspan>
+                <tspan x="25.2" y="61.1">新</tspan>
+            </text>
+        </g>
+        <g id="shape20" transform="translate(1083.31,368.50)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="22.9" y="33.8">根据事先方法执行不同操作</tspan>
+            </text>
+        </g>
+        <g id="shape21" transform="translate(510.24,321.26)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="6.5" y="20.0">获取数据后执行</tspan>
+                <tspan x="39.0" y="39.0">操作</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
