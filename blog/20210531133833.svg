@@ -1,0 +1,47 @@
+<svg height="342" xmlns:xlink="http://www.w3.org/1999/xlink" width="219" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 219 342">
+    <defs/>
+    <g transform="translate(-202.15,-282.46)">
+        <g transform="translate(203.15,283.46)" id="shape1">
+            <path fill="#ffffff" stroke="#323232" fill-rule="nonzero" d="M217.3,340.2L217.3,.0L.0,.0L.0,340.2L217.3,340.2z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="95.7" y="19.0">对象</tspan>
+            </text>
+        </g>
+        <g transform="translate(238.19,315.71)" id="shape2">
+            <path fill="#ffffff" stroke="#323232" fill-rule="nonzero" d="M147.2,138.0L147.2,7.0C147.2,3.1,144.1,.0,140.2,.0L7.0,.0C3.1,.0,.0,3.1,.0,7.0L.0,138.0C.0,141.9,3.1,145.0,7.0,145.0L140.2,145.0C144.1,145.0,147.2,141.9,147.2,138.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="54.1" y="19.0">对象头</tspan>
+            </text>
+        </g>
+        <g transform="translate(238.19,550.28)" id="shape3">
+            <path fill="#ff9189" stroke="#323232" fill-rule="nonzero" d="M147.2,53.0L147.2,7.0C147.2,3.1,144.1,.0,140.2,.0L7.0,.0C3.1,.0,.0,3.1,.0,7.0L.0,53.0C.0,56.9,3.1,60.0,7.0,60.0L140.2,60.0C144.1,60.0,147.2,56.9,147.2,53.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="47.6" y="35.5">实例数据</tspan>
+            </text>
+        </g>
+        <g transform="translate(238.19,474.69)" id="shape4">
+            <path fill="#90d6ab" stroke="#323232" fill-rule="nonzero" d="M147.2,53.0L147.2,7.0C147.2,3.1,144.1,.0,140.2,.0L7.0,.0C3.1,.0,.0,3.1,.0,7.0L.0,53.0C.0,56.9,3.1,60.0,7.0,60.0L140.2,60.0C144.1,60.0,147.2,56.9,147.2,53.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="24.1" y="35.5">对其填充(非必须)</tspan>
+            </text>
+        </g>
+        <g transform="translate(261.81,340.16)" id="shape5">
+            <path fill="#b3d04b" stroke="#323232" fill-rule="nonzero" d="M100.0,28.3L100.0,.0L.0,.0L.0,28.3L100.0,28.3z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="15.0" y="19.7">Mark Word</tspan>
+            </text>
+        </g>
+        <g transform="translate(261.81,377.95)" id="shape6">
+            <path fill="#fbdd2d" stroke="#323232" fill-rule="nonzero" d="M100.0,28.3L100.0,.0L.0,.0L.0,28.3L100.0,28.3z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="24.0" y="20.0">类型指针</tspan>
+            </text>
+        </g>
+        <g transform="translate(261.81,414.09)" id="shape7">
+            <path fill="#307f45" stroke="#323232" fill-rule="nonzero" d="M100.0,28.3L100.0,.0L.0,.0L.0,28.3L100.0,28.3z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="11.0" y="20.0">数组长度数据</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
